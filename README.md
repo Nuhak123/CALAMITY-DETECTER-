@@ -126,7 +126,7 @@ For Hardware:
 
 ## Team Contributions
 - Fahida: [backend]
-  Nuha: [frontend]
+- Nuha: [frontend]
 - Fahiyya: [styling]
 
 ---
