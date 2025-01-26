@@ -25,7 +25,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTML, JavaScript]
+- [Typescript,HTML, JavaScript,css]
 - [tailwind CSS]
 - [react]
 - [BOLT,VITE
@@ -125,9 +125,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Fahida]: [backend]
-- [Nuha]: [frontend]
-- [Fahiyya]: [styling]
+- Fahida: [backend]
+  Nuha: [frontend]
+- Fahiyya: [styling]
 
 ---
 Made with ❤️ at TinkerHub
