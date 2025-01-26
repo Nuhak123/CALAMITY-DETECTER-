@@ -103,8 +103,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![![WIN_20250126_10_41_43_Pro](https://github.com/user-attachments/assets/fffd6b05-b51d-4256-916e-dc1b79b8fa10)
-](Add photo of your team here)
+![![WhatsApp Image 2025-01-26 at 11 17 10_4ecd205a](https://github.com/user-attachments/assets/15922cad-0373-42ae-8a9c-d46d9ca41d68)](Add photo of your team here)
 
 
 ![Components](Add photo of your components here)
